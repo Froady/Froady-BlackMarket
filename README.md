@@ -1,2 +1,2 @@
 # Froady-versions
-Version checking
+Version checking for my scripts.
